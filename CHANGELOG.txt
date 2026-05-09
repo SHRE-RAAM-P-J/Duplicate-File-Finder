@@ -1,0 +1,10 @@
+# Changelog — Duplicate File Finder
+
+## v1.0 — Initial Release (January 2026)
+- Added folder selection UI
+- Implemented hash-based duplicate detection
+- Added duplicate grouping
+- Added delete selected files feature
+- Added simple and clean UI (Qt Widgets)
+- Added Windows-ready EXE build
+- Added documentation and screenshots
